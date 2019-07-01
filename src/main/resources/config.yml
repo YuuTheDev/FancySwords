@@ -1,0 +1,16 @@
+skills:
+  sword_flip:
+    modeldata: 1
+    cooldown: 5
+    teleport_away: 2
+    sound: "ENTITY_ENDERMAN_TELEPORT"
+  ground_push:
+    modeldata: 2
+    cooldown: 5
+    particle: "SMOKE_NORMAL"
+    only_upwards: true
+    push_force: 0.8
+
+lowgravity: false
+lowgravity_pushvalue: 0.01
+lowgravity_pushdelay: 0.5

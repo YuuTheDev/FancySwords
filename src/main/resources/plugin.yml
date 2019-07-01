@@ -1,0 +1,14 @@
+name: FancySwords
+version: ${project.version}
+main: me.yuuthedev.fancyswords.Skills
+author: YuuTheDev
+commands:
+  bune:
+    description: Esyanin aciklamasi
+    usage: /bune
+  fsreload:
+    description: Plugini yeniler
+    usage: /fsreload
+  gravity:
+    description: LowGravity ayarlar
+    usage: /gravity
